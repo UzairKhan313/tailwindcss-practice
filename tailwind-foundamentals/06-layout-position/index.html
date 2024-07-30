@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>TailwindCSS</title>
+  </head>
+  <body>
+    <!-- Positioning -->
+    <div class="relative w-1/2 h-12 bg-red-200">
+      <p>Parent Elemet</p>
+      <div class="absolute bottom-0 right-0 bg-red-500">
+        <p>Absolute Child</p>
+      </div>
+    </div>
+
+    <!-- Top left corner -->
+    <div class="relative w-60 h-32 bg-yellow-200 mt-12">
+      <p>Parent Elemet</p>
+      <div class="absolute h-12 w-12 top-0 left-0 bg-yellow-500">
+        <p></p>
+      </div>
+    </div>
+
+    <!-- Top right corner -->
+    <div class="relative w-60 h-44 bg-yellow-200 mt-12">
+      <p>Parent Elemet</p>
+      <div class="absolute h-12 w-12 top-0 right-0 bg-yellow-500">
+        <p></p>
+      </div>
+    </div>
+
+    <!-- Bottom left corner -->
+    <div class="relative w-60 h-44 bg-yellow-200 mt-12">
+      <p>Parent Elemet</p>
+      <div class="absolute h-12 w-12 bottom-0 left-0 bg-yellow-500">
+        <p></p>
+      </div>
+    </div>
+
+    <!-- Bottom right corner -->
+    <div class="relative w-60 h-44 bg-yellow-200 mt-12">
+      <p>Parent Elemet</p>
+      <div class="absolute h-12 w-12 bottom-0 right-0 bg-yellow-500"></div>
+    </div>
+
+    <!-- Span top edge -->
+    <div class="relative w-32 h-32 bg-yellow-200 mt-12">
+      <p>Parent Elemet</p>
+      <div class="absolute inset-x-0 h-16 top-0 bg-yellow-500"></div>
+    </div>
+
+    <!-- Span left edge -->
+    <div class="relative w-32 h-32 bg-yellow-200 mt-12">
+      <p>Parent Elemet</p>
+      <div class="absolute inset-y-0 w-12 left-0 bg-yellow-500"></div>
+    </div>
+
+    <!-- Span right edge -->
+    <div class="relative w-32 h-32 bg-yellow-200 mt-12">
+      <p>Parent Elemet</p>
+      <div class="absolute inset-y-0 w-12 right-0 bg-yellow-500"></div>
+    </div>
+
+    <!-- Span bottom edge -->
+    <div class="relative w-32 h-32 bg-yellow-200 mt-12">
+      <p>Parent Elemet</p>
+      <div class="absolute inset-x-0 h-12 bottom-0 bg-yellow-500"></div>
+    </div>
+
+    <!-- Display Classes -->
+    <div>
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni, accusamus
+      eum consectetur et vel ut a facilis
+      <span class="inline text-red-500 font-bold">This is inline spane.</span
+      >praesentium ea dolores animi! Dolor quod accusantium soluta sapiente cum
+      sit, fugit ipsum! Lorem ipsum dolor, sit amet consectetur adipisicing
+      elit. Odio ea corrupti<span class="block text-red-500 font-bold"
+        >This is block spane.</span
+      >
+      minima delectus consectetur placeat nulla reiciendis, dicta omnis,
+      deleniti exercitationem qui. Sapiente, ex! Esse eum voluptate nam dolor
+      dolorem velit explicabo?
+    </div>
+
+    <!-- Z-Index -->
+    <div class="relative h-32">
+      <div class="absolute h-32 w-32 bg-blue-100 z-40">1</div>
+      <div class="absolute h-32 w-32 left-20 bg-blue-200 z-40">2</div>
+      <div class="absolute h-32 w-32 left-40 bg-blue-300">3</div>
+      <div class="absolute h-32 w-32 left-60 bg-blue-400">4</div>
+      <div class="absolute h-32 w-32 left-80 bg-blue-500">5</div>
+    </div>
+
+    <!-- Floats -->
+  </body>
+</html>
+
+<!-- Position Classes
+      static	    position: static;
+      fixed	      position: fixed;
+      absolute	  position: absolute;
+      relative	  position: relative;
+      sticky	    position: sticky;
+    -->
+
+<!-- Display Classes
+      block	            display: block;
+      inline-block	    display: inline-block;
+      inline	          display: inline;
+      flex	            display: flex;
+      inline-flex	      display: inline-flex;
+      table	            display: table;
+      grid	            display: grid;
+      inline-grid	      display: inline-grid;
+      contents	        display: contents;
+      list-item	        display: list-item;
+      hidden	          display: none;
+    -->
+
+<!-- Z-Index
+      z-0	    z-index: 0;
+      z-10	  z-index: 10;
+      z-20	  z-index: 20;
+      z-30	  z-index: 30;
+      z-40	  z-index: 40;
+      z-50	  z-index: 50;
+      z-auto	z-index: auto;
+    -->
+
+<!-- Float
+      float-right	  float: right;
+      float-left	  float: left;
+      float-none	  float: none;
+    -->
