@@ -23,24 +23,15 @@ Tailwind CSS is a utility-first CSS framework that provides a deep set of utilit
 
    - Description: A Tailwindcss starter file which contain the basic set up for tailwindcss.
 
-3. **Project 3:Pricing Card Components**
+3. **Project 3: Tailwind Mini Projects**
 
    - Description: Pricing card components used for displaying content in a structured manner.
    - Features: Flexbox, hover effects, responsive design.
 
-4. **Project 4: Login Form**
+4. **Project 4: Clipboard**
 
    - Description: A simple and clean login form with validation.
    - Features: Form elements, responsive design.
-
-5. **Project 4: Image Gallery**
-
-   - Description: A simple and clean Image Gallery with Navbar and search form.
-   - Features: flex, grid, responsive design.
-
-6. **Project 4: Product Card**
-   - Description: Amezing product card with the add to cart button and some descroption.
-   - Features: flex, grid,animation, transition responsive design.
 
 ## Installation
 
@@ -57,6 +48,12 @@ To get started with these projects, follow these steps:
    ```
 
 3. Install the dependencies:
+
    ```bash
    npm install.
+   ```
+
+4. Watch any Changes:
+   ```bash
+   npm run watch.
    ```
