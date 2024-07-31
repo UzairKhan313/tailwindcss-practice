@@ -23,14 +23,19 @@ Tailwind CSS is a utility-first CSS framework that provides a deep set of utilit
 
    - Description: A Tailwindcss starter file which contain the basic set up for tailwindcss.
 
-3. **Project 3: Card Components**
+3. **Project 3:Pricing Card Components**
 
-   - Description: Various card components used for displaying content in a structured manner.
-   - Features: Flexbox, grid, hover effects, responsive design.
+   - Description: Pricing card components used for displaying content in a structured manner.
+   - Features: Flexbox, hover effects, responsive design.
 
 4. **Project 4: Login Form**
+
    - Description: A simple and clean login form with validation.
    - Features: Form elements, validation styles, responsive design.
+
+5. **Project 4: Image Gallery**
+   - Description: A simple and clean Image Gallery with Navbar and search form.
+   - Features: flex, grid, responsive design.
 
 ## Installation
 
