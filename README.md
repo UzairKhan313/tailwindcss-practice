@@ -31,11 +31,16 @@ Tailwind CSS is a utility-first CSS framework that provides a deep set of utilit
 4. **Project 4: Login Form**
 
    - Description: A simple and clean login form with validation.
-   - Features: Form elements, validation styles, responsive design.
+   - Features: Form elements, responsive design.
 
 5. **Project 4: Image Gallery**
+
    - Description: A simple and clean Image Gallery with Navbar and search form.
    - Features: flex, grid, responsive design.
+
+6. **Project 4: Product Card**
+   - Description: Amezing product card with the add to cart button and some descroption.
+   - Features: flex, grid,animation, transition responsive design.
 
 ## Installation
 
