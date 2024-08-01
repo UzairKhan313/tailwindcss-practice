@@ -35,11 +35,16 @@ In Foundamental project directory you don't need to install any dependencey ther
 4. **Project 4: Clipboard**
 
    - Description: Clipboard landpage.
-   - Features: Form elements, responsive design.
+   - Features: flexbox animation responsive design.
 
-5. **Project 4: Loopstudio**
+5. **Project 5: Loopstudio**
 
-   - Description: Simple landing page for loopstudio website.
+   - Description: Simple landing page for loopstudio website including Responsive Navbar.
+   - Features: , responsive design.
+
+6. **Project 6: Shortly**
+
+   - Description: Simple landing page for Shrotly website is using for shortening urls including Responsive navbar.
    - Features: Form elements, responsive design.
 
 ## Installation
