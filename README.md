@@ -12,6 +12,10 @@ Welcome to the `tailwindcss-practice` repository! This repository contains vario
 
 Tailwind CSS is a utility-first CSS framework that provides a deep set of utilities to create custom designs without leaving your HTML. This repository includes practice projects that demonstrate different features and techniques using Tailwind CSS.
 
+## Note
+
+In Foundamental project directory you don't need to install any dependencey there i am using tailwindcss through cdn.
+
 ## Projects
 
 1. **Project 1: Tailwind Foundamental**
@@ -30,7 +34,12 @@ Tailwind CSS is a utility-first CSS framework that provides a deep set of utilit
 
 4. **Project 4: Clipboard**
 
-   - Description: A simple and clean login form with validation.
+   - Description: Clipboard landpage.
+   - Features: Form elements, responsive design.
+
+5. **Project 4: Loopstudio**
+
+   - Description: Simple landing page for loopstudio website.
    - Features: Form elements, responsive design.
 
 ## Installation
