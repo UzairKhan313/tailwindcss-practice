@@ -47,6 +47,11 @@ In Foundamental project directory you don't need to install any dependencey ther
    - Description: Simple landing page for Shrotly website is using for shortening urls including Responsive navbar.
    - Features: Form elements, responsive design.
 
+7. **Project 7: Testomonial**
+
+   - Description: Testiominal landing page.
+   - Features: grid, grid-col, grid-row.
+
 ## Installation
 
 To get started with these projects, follow these steps:
