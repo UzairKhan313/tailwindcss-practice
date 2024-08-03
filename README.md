@@ -52,6 +52,11 @@ In Foundamental project directory you don't need to install any dependencey ther
    - Description: Testiominal landing page.
    - Features: grid, grid-col, grid-row.
 
+8. **Project 8: Fylo**
+
+   - Description: Fylo website landing page.
+   - Features: flex, dark and light theme, save prefernce in local storage, grid, grid-col, grid-row.
+
 ## Installation
 
 To get started with these projects, follow these steps:
