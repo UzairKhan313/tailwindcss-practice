@@ -57,6 +57,11 @@ In Foundamental project directory you don't need to install any dependencey ther
    - Description: Fylo website landing page.
    - Features: flex, dark and light theme, save prefernce in local storage, grid, grid-col, grid-row.
 
+9. **Project 9: Bookmarks**
+
+   - Description: Bookmark software landing page.
+   - Features: flex, respnosive, mobile menu.
+
 ## Installation
 
 To get started with these projects, follow these steps:
